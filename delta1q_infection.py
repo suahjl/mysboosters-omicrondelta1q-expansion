@@ -14,7 +14,7 @@ import statsmodels.formula.api as smf
 time_start = time.time()
 
 # 0 --- Preliminaries
-file_input = 'Data/MYSBoosters_TND_Data_Delta1Q_Expansion.parquet'  # Delta1Q_Expansion DATA
+file_input = 'Data/MYSBoosters_TND_Data_Delta1Q_Expansion_ANONYMISED.parquet'  # Delta1Q_Expansion DATA
 
 # I --- Data
 print('\n----- Reading processed data file -----')
